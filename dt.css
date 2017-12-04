@@ -1,0 +1,14 @@
+﻿#dt-snurra{
+position: relative;
+max-width: 400px;
+border: 2px solid #999;
+vertical-align: bottom;
+}
+
+#dt-snurra img{
+width: 100%;
+}
+
+#dt-snurra video{
+width: 100%;
+}
